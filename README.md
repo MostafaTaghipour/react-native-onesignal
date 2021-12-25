@@ -11,10 +11,14 @@
 
 #### Installation
 
-Install the SDK 
+Install the SDK using yarn or NPM
 
 ```
 npm install https://github.com/MostafaTaghipour/react-native-onesignal
+```
+or
+```
+yarn add https://github.com/MostafaTaghipour/react-native-onesignal
 ```
 
 See the [Setup Guide](https://documentation.onesignal.com/docs/react-native-sdk-setup) for setup instructions.
