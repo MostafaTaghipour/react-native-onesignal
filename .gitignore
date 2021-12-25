@@ -30,3 +30,4 @@ examples/RNOneSignal/ios/Pods/Pods.xcodeproj/xcuserdata
 android/.idea
 images
 dist
+.DS_Store

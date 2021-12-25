@@ -22,5 +22,5 @@ Pod::Spec.new do |s|
   # pod 'React', :path => '../node_modules/react-native/'
 
   # The Native OneSignal-iOS-SDK XCFramework from cocoapods.
-  s.dependency 'OneSignalXCFramework', '3.9.1'
+  s.dependency 'OneSignalXCFramework', :git => 'https://github.com/MostafaTaghipour/OneSignal-iOS-SDK.git'
 end
